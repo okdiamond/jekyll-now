@@ -3,9 +3,34 @@ layout: post
 title: Lesson 1: New blog
 ---
 
-| Title | New blog |
---------------------
-| Date | 6.9.2018 |
+
+<html>
+<head>
+<style>
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid #1a8cff;
+}
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Title</th>
+    <th>New blog</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>6.9.2018</td>
+  </tr>
+</table>
+
+</body>
+</html>
 
 
 Starting point:
