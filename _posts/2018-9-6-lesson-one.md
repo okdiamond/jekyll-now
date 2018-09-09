@@ -3,7 +3,6 @@ layout: post
 title: Lesson 1: New blog
 ---
 
-
 <html>
 <head>
 <style>
