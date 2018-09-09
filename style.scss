@@ -62,7 +62,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #1a1a1a;
 }
 
 p {
@@ -118,17 +118,17 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #1a1a1a;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: #1a1a1a;
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: #1a1a1a;
 }
 
 // Nicolas Gallagher's micro clearfix hack
