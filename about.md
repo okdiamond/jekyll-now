@@ -6,7 +6,7 @@ permalink: /about/
 
 Some information about me!
 
-I like classincal music.
+I like classical music.
 
 ### Contact me
 
