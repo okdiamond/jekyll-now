@@ -3,7 +3,7 @@ layout: post
 title: Lesson 3
 ---
 
-New blog
+Cypher Solver
 20.9.2018
 
 
